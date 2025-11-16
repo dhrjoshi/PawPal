@@ -1,0 +1,6 @@
+[submodule "Server"]
+	path = Server
+	url = git@github.com:dhrjoshi/PawPal-Backend.git
+[submodule "client"]
+	path = client
+	url = git@github.com:dhrjoshi/PawPal-Frontend.git
